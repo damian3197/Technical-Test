@@ -1,4 +1,4 @@
-module github.com/damian3197/golangapinoframework
+module github.com/damian3197/Technical-Test
 
 go 1.17
 
